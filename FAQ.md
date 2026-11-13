@@ -10,7 +10,7 @@ https://paraworldlink.com
 
 ## 支持哪些设备？
 
-提供 Windows、macOS、Linux 和 Android 客户端。iPhone / iPad 可通过支持订阅的第三方客户端使用。
+提供 Windows、macOS、Linux 和 Android 客户端。iPhone / iPad 可使用小火箭（Shadowrocket）或 Nextin。
 
 ## 套餐多少钱？有试用吗？
 
