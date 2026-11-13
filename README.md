@@ -1,10 +1,17 @@
 # ParaWorld VPN · 平行世界
 
-**看 YouTube、用 ChatGPT、查海外资料，让上网多一些选择。**
+**免费试用3天，含5GB流量｜全球多地区节点｜电脑、手机都能用**
 
-ParaWorld VPN（平行世界）帮助你连接海外网络，浏览海外网站、观看视频、使用海外 AI 工具。电脑、安卓手机都有专用客户端，选择线路，一键连接；iPhone、iPad 可搭配小火箭（Shadowrocket）或 Nextin 使用。
+想看 YouTube、使用 ChatGPT、浏览海外网站？ParaWorld VPN（平行世界）帮助你连接海外网络，提供全球多个国家和地区的节点，按需选择、自由切换。
 
-不懂技术也能开始，跟着下面的教程操作即可。遇到问题，可通过官网工单联系支持。
+**先免费体验，再决定是否订阅。** 注册即可试用72小时，包含5GB流量，亲自体验线路与连接效果。
+
+- **全球多节点**：覆盖多个国家和地区，方便按需求选择线路。
+- **电脑、手机都支持**：Windows、macOS、Linux、Android 提供专用客户端；iPhone、iPad 可使用小火箭（Shadowrocket）或 Nextin。
+- **操作简单**：专用客户端选择线路，一键连接；新手可跟着教程开始使用。
+- **支持工单求助**：使用中遇到问题，可通过官网提交工单。
+
+**[前往官网，免费试用3天 →](https://paraworldlink.com)**
 
 **[访问官网](https://paraworldlink.com)** · [入门指南](GETTING_STARTED.md) · [常见问题](FAQ.md)
 
