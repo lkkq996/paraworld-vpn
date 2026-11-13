@@ -14,7 +14,7 @@ ParaWorld VPN 提供多平台客户端与订阅使用方式，方便用户访问
 | macOS | ParaWorld 客户端 |
 | Linux | ParaWorld 客户端 |
 | Android | ParaWorld 客户端 |
-| iPhone / iPad | 按官网教程，通过支持订阅的第三方客户端使用 |
+| iPhone / iPad | 小火箭（Shadowrocket）或 Nextin |
 
 ## 开始使用
 
