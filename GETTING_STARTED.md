@@ -8,7 +8,7 @@
 
 在官网找到“全部客户端”，选择设备对应的安装包。客户端请从官网获取，避免使用来源不明的修改版本。
 
-Windows、macOS、Linux 与 Android 用户按各平台教程安装。iPhone / iPad 用户请查看官网 iOS 教程，使用支持订阅的第三方客户端。
+Windows、macOS、Linux 与 Android 用户按各平台教程安装。iPhone / iPad 用户可使用小火箭（Shadowrocket）或 Nextin，按官网 iOS 教程导入订阅。
 
 ## 3. 登录与连接
 
