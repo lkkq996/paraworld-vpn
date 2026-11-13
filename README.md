@@ -1,8 +1,10 @@
 # ParaWorld VPN · 平行世界
 
-连接海外网络，从这里开始。
+**看 YouTube、用 ChatGPT、查海外资料，让上网多一些选择。**
 
-ParaWorld VPN 提供多平台客户端与订阅使用方式，方便用户访问海外网站、视频及在线服务。本仓库提供入门指南、常见问题和问题反馈入口。
+ParaWorld VPN（平行世界）帮助你连接海外网络，浏览海外网站、观看视频、使用海外 AI 工具。电脑、安卓手机都有专用客户端，选择线路，一键连接；iPhone、iPad 可搭配小火箭（Shadowrocket）或 Nextin 使用。
+
+不懂技术也能开始，跟着下面的教程操作即可。遇到问题，可通过官网工单联系支持。
 
 **[访问官网](https://paraworldlink.com)** · [入门指南](GETTING_STARTED.md) · [常见问题](FAQ.md)
 
