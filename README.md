@@ -1,4 +1,4 @@
-# ParaWorld VPN · 平行世界
+# ParaWorld VPN｜平行世界VPN｜免费试用3天
 
 **免费试用3天，含5GB流量｜全球多地区节点｜电脑、手机都能用**
 
