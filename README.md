@@ -13,7 +13,7 @@
 
 **[前往官网，免费试用3天 →](https://paraworldlink.com)**
 
-**[访问官网](https://paraworldlink.com)** · [入门指南](GETTING_STARTED.md) · [常见问题](FAQ.md)
+**[访问官网](https://paraworldlink.com)**
 
 ## 支持的平台
 
