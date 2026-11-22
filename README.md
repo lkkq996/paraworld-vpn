@@ -31,6 +31,8 @@ ParaWorld VPN（平行世界）提供全球多地区节点，电脑、手机一�
 
 官网地址：`https://paraworldlink.com`（可复制到浏览器打开）
 
+**YouTube 频道**：[阿飞笔记（@afeibiji）](https://www.youtube.com/@afeibiji)
+
 注册账户 → 下载客户端 → 选择线路并连接。
 
 iPhone、iPad 用户使用小火箭或 Nextin 导入订阅。使用中需要帮助，可在官网提交工单。
