@@ -1,4 +1,7 @@
-**官网：[https://paraworldlink.com](https://paraworldlink.com)**
+**官网：[https://paraworldlink.com](https://paraworldlink.com)**  
+**电报：[https://t.me/paraworldvpn](https://t.me/paraworldvpn)**  
+**YouTube：[阿飞笔记（官方客服阿飞）](https://www.youtube.com/@afeibiji)**  
+**X：[https://x.com/ParaworldVPN](https://x.com/ParaworldVPN)**
 
 # 第4期｜2026年11月22日早间节点测试日志
 
