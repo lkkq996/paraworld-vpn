@@ -1,6 +1,10 @@
+**官网：[https://paraworldlink.com](https://paraworldlink.com)**  
+**电报：[https://t.me/paraworldvpn](https://t.me/paraworldvpn)**  
+**YouTube：[阿飞笔记（官方客服阿飞）](https://www.youtube.com/@afeibiji)**  
+**X：[https://x.com/ParaworldVPN](https://x.com/ParaworldVPN)**
+
 # ParaWorld VPN 平行世界VPN｜第1期｜2026-11-18移动热点／电信宽带节点实测｜机场测评·翻墙梯子·科学上网
 
-**官网：https://paraworldlink.com**
 
 根据两张已完成的测试截图整理。以下时间为北京时间。两种网络分别记录。
 
