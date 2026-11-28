@@ -1,3 +1,8 @@
+> **【已处理｜2026年11月28日】**
+> 本次节点故障已处理完成。请升级至 **1.1.0**，刷新节点列表后选择当前可用节点连接；新版支持 **REALITY 协议节点**。符合条件的订阅及试用账号统一增加7天使用时长，详情见 [notice](https://github.com/lkkq996/paraworld-vpn/issues/9)
+
+---
+
 **官网：[https://paraworldlink.com](https://paraworldlink.com)**  
 **电报：[https://t.me/paraworldvpn](https://t.me/paraworldvpn)**  
 **YouTube：[阿飞笔记（官方客服阿飞）](https://www.youtube.com/@afeibiji)**  
